@@ -1,0 +1,32 @@
+.count-piechart-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+  &__item {
+    display: flex;
+  }
+
+  &__card {
+    width: 30rem !important;
+    height: 40rem !important;
+    text-align: center;
+    margin: 0.25rem;
+  }
+
+  &__header {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: silver;
+  }
+}
+
+.bSWeAW:hover:enabled,
+.bSWeAW:focus:enabled {
+  background-color: darkgrey !important;
+}
+
+.cetQhm {
+  background-color: rgb(128, 128, 128) !important;
+  box-shadow: 0 0 1px 3px rgb(211, 211, 211) !important;
+}
